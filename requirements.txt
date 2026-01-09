@@ -5,3 +5,4 @@ scikit-learn
 pycgi
 plotly
 scipy
+scikit-learn
