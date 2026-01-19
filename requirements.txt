@@ -6,3 +6,4 @@ pycgi
 plotly
 scipy
 scikit-learn
+imblearn
